@@ -2,7 +2,6 @@
 你好呀~
 
 #### Overall status
-[Status](https://github-readme-stats.vercel.app/api?username=KyuubiRan)
-
-[Commits](https://activity-graph.herokuapp.com/graph?username=KyuubiRan&theme=dracula)
+![Status](https://github-readme-stats.vercel.app/api?username=KyuubiRan)    
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosemoe&layout=compact)
 
