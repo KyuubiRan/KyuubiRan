@@ -2,7 +2,7 @@
 你好呀~
 
 #### Overall status
-[![Status](https://github-readme-stats.vercel.app/api?username=KyuubiRan)](https://github.com/anuraghazra/github-readme-stats)
+[Status](https://github-readme-stats.vercel.app/api?username=KyuubiRan)
 
-[![Commits](https://activity-graph.herokuapp.com/graph?username=KyuubiRan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Commits](https://activity-graph.herokuapp.com/graph?username=KyuubiRan&theme=dracula)
 
