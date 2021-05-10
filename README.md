@@ -1,4 +1,4 @@
-### 一只十分普通的狐狐🦊 
+### 一只能鸽擅鹉且十分普通的狐狐🦊 
 你好呀~    
 ### Overall status
 ![Status](https://github-readme-stats.vercel.app/api?username=KyuubiRan)    
